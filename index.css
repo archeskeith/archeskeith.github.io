@@ -1,6 +1,6 @@
 /*reference https://www.w3schools.com/css/css_howto.asp*/
 body{
-	background-color: lightblue;
+	background-color: yellow;
 }
 h1 {
 	color:navy;
@@ -9,5 +9,9 @@ h1 {
 
 h2{
 	color:white;
+	margin-bottom: 40px; 
+}
+h3{
+	color:navy;
 	margin-bottom: 40px; 
 }
