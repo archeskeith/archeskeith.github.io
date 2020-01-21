@@ -1,1 +1,8 @@
-css
+/*reference https://www.w3schools.com/css/css_howto.asp*/
+body{
+	background-color: lightblue;
+}
+h1 {
+	color:navy;
+	margin-left: 20px;
+}
